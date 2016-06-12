@@ -1,21 +1,23 @@
-# Jekyll template
-Beautiful responsive portfolio style template for designers and web developers
+# Codinfox-Lanyon
 
-[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
+This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 
-![preview](http://i.imgur.com/9Nz6Ib9.jpg)
+**If you like this project, PLEASE give it a star.**
 
-## Demo
-Find a demo [here](http://nikrich.github.io/jekyll-slender-template/#)
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-## Contributing
+All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
 
-1. Clone the repo
-2. Checkout the dev branch ( Do not work directly on master )
-3. Use ```jekyll serve``` to run the project
-4. Make your changes and test
-5. Submit a pull request
+The theme supports: 
+
+1. Theme colors: you can choose your favorite theme color
+2. Changable sidebar locations
+3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
+4. and numerous improvements over original Lanyon
 
 
-Inspired by [Balraj Chana](https://dribbble.com/shots/2380700-New-Portfolio-Site-Live)
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
